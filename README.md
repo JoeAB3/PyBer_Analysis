@@ -5,6 +5,7 @@ Results:
 After merging the dataframes we see that Rural had the highest Average Fare per driver ($55.49) and highest fare per ride ($34.62)
 The Urban drivers had the lowest average per fare.  Those drivers also earned 30% of the Rural drivers
 
+
 Looking at Fare by city type we see that all 3 peak in late February . 
 Rural has a slight increasing trend through the end of April.
 Suburban declines after the peak in February, only to climb again  in April.
